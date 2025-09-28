@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/GamePlay/Player/BP_MyPlayerController.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/PreCMCTick.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/ABP_MainCharacter.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/Interfaces/BPI_Character.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Look.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Move.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/IA_Walk.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/IMC_Default.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/IMC_Default.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Walk.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Move.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Look.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Input/IMC_Hotbar.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/IMC_Hotbar.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/GamePlay/GameModes/GM_GamePlay.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/Cameras/CRP_BasicBehavior.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/Cameras/CameraDirector_Camera.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Blueprints/Cameras/CABP_TP_Camera.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Structures/S_CharacterInputState.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Enums/Character/E_CameraMode.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Structures/Character/S_CharacterCamera.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Structures/Character/S_CharacterCameraParameters.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Structures/Character/S_CharacterCameraProperties.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/Camera/IA_ToggleFirstThirdPerson.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/Camera/IA_Aim.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/IMC_Camera.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival_2/Content/Core/Data/Input/Actions/Camera/IA_Look.uasset"
+			]
+		}
+	]
+}
