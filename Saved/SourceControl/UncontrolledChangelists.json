@@ -80,6 +80,8 @@
 				"D:/Survival/Survival2/Content/Core/Blueprints/Interfaces/BPI_GameInstance.uasset",
 				"D:/Survival/Survival2/Content/Core/DataAssets/PrimaryAssets/PDA_UI_Style.uasset",
 				"D:/Survival/Survival2/Content/Core/DataAssets/PrimaryAssets/UI/DA_UI_Style.uasset",
+				"D:/Survival/Survival2/Content/Core/UI/Common/Styles/PS_UI_ProgressBar_Master.uasset",
+				"D:/Survival/Survival2/Content/Core/Data/Enums/Inventory/E_SortItemBy.uasset",
 				"D:/Survival/Survival2/Content/Core/DataAssets/PrimaryAssets/Items/PDA_ItemResource.uasset",
 				"D:/Survival/Survival2/Content/Core/DataAssets/PrimaryAssets/Items/Resources/DA_Resource_IronOre.uasset",
 				"D:/Survival/Survival2/Content/Core/DataAssets/PrimaryAssets/Items/Resources/DA_Resource_Stone.uasset",
