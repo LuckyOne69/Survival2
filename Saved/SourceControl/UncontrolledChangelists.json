@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Linus/Documents/GitHub/Survival2/Content/Core/Data/Enums/Items/E_ItemUseMode.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival2/Content/Core/Blueprints/PrimaryDataAssets/Items/PDA_ItemEquippableMaster.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival2/Content/Core/Blueprints/Interfaces/BPI_ItemEquippable.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival2/Content/Core/Blueprints/Items/Equippable/BP_ItemEquippableMaster.uasset",
+				"C:/Users/Linus/Documents/GitHub/Survival2/Content/Core/Blueprints/Items/Components/BPC_ItemUse.uasset",
 				"D:/Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content/Modules/Meshes/SKM_Biped_Template.uasset",
 				"D:/Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Modules/Meshes/SKM_Root_Template.uasset",
 				"D:/Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content/Modules/Shoulder.uasset",
