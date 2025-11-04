@@ -1,0 +1,2 @@
+/Game/Core/Blueprints/Items/Components/BPC_ItemEquippable.Default__BPC_ItemEquippable_C
+/Game/Core/Blueprints/Items/Components/BPC_ItemEquippable.BPC_ItemEquippable_C

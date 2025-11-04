@@ -1,0 +1,2 @@
+/Engine/Transient.World_19:PersistentLevel.BP_ItemTool_Pickaxe_Stone_C_0.ItemUseComp
+/Game/Core/Blueprints/Items/Components/BPC_ItemUse.BPC_ItemUse_C

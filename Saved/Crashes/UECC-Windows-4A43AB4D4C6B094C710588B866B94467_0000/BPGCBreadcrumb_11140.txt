@@ -1,0 +1,2 @@
+/Game/Core/Blueprints/Items/Equippable/BP_ItemEquippableMaster.BP_ItemEquippableMaster_C:ItemEquippableComp_GEN_VARIABLE
+/Game/Core/Blueprints/Items/Components/BPC_ItemEquippable.BPC_ItemEquippable_C

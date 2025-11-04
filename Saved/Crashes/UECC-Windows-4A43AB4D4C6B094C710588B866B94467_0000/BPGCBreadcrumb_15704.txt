@@ -1,0 +1,2 @@
+/Engine/Transient.ItemUseComp_GEN_VARIABLE
+/Game/Core/Blueprints/Items/Components/BPC_ItemUse.BPC_ItemUse_C
