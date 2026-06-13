@@ -1,0 +1,6 @@
+[9000:41480:0608/093929.078:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9000:39480:0608/093929.271:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9000:41480:0608/093929.349:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40428:31460:0608/093935.338:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C4A917ACE7E1F8469CF695863E02999E will be ignored
+[9000:22068:0608/093937.076:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9000:41480:0608/095903.659:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
