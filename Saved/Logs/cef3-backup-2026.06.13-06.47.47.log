@@ -1,0 +1,10 @@
+[22408:3688:0613/072122.829:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22408:9432:0613/072123.015:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22408:3688:0613/072123.104:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34200:34204:0613/072132.451:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CF9EDC400986DE9B4A47EA6128F3E703 will be ignored
+[22408:3688:0613/072812.957:ERROR:device_event_log_impl.cc(196)] [07:28:12.905] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[22408:3688:0613/072812.957:ERROR:device_event_log_impl.cc(196)] [07:28:12.905] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[22408:3688:0613/072812.957:ERROR:device_event_log_impl.cc(196)] [07:28:12.905] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[22408:3688:0613/072812.957:ERROR:device_event_log_impl.cc(196)] [07:28:12.905] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[22408:3688:0613/072812.957:ERROR:device_event_log_impl.cc(196)] [07:28:12.906] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[22408:3688:0613/084747.386:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
