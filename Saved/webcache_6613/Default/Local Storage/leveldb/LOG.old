@@ -1,3 +1,5 @@
-2026/06/13-15:03:04.188 4f3c Reusing MANIFEST C:\Users\Linus\Documents\GitHub\Survival2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/13-15:03:04.191 4f3c Recovering log #14
-2026/06/13-15:03:04.193 4f3c Reusing old log C:\Users\Linus\Documents\GitHub\Survival2\Saved\webcache_6613\Default\Local Storage\leveldb/000014.log 
+2026/06/14-03:59:11.813 20fc Reusing MANIFEST C:\Users\Linus\Documents\GitHub\Survival2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/14-03:59:11.819 20fc Recovering log #14
+2026/06/14-03:59:11.821 20fc Reusing old log C:\Users\Linus\Documents\GitHub\Survival2\Saved\webcache_6613\Default\Local Storage\leveldb/000014.log 
+2026/06/14-05:22:24.647 a50 Level-0 table #17: started
+2026/06/14-05:22:24.695 a50 Level-0 table #17: 62826 bytes OK
