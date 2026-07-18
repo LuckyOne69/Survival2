@@ -1,0 +1,21 @@
+# Compiled binaries
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Backup y temporales tuyos
+TempBackupRecipes/
+
+# Voxel Plugin Pro cache (si genera datos derivados)
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Config personal del editor (opcional, mantiene DefaultEngine.ini pero ignora el resto)
+Config/DefaultEditorPerProjectUserSettings.ini
